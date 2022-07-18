@@ -2,7 +2,7 @@
 
 ## SAAS usando Angular 2+ para cadastro de lançamentos financeiros
 
-Obs: Você pode salvar os dados de três formas:
+Obs: Você pode salvar os dados de duas formas:
 
 - Criando uma API usando [essas recomendações](https://www.npmjs.com/package/json-server). ( De preferência )
 - Excute ***npm run api*** para iniciar um servidor json-server. Você pode saber como usar [aqui](https://www.npmjs.com/package/json-server);
