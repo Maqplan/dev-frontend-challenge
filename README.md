@@ -16,20 +16,22 @@ Cadastro de despesas e receitas e seus relacionamentos.
     - Status (Em aberto, quitado, pago)
     - Data vencimento
     - Data pagamento
-    - Categoria
-    - Pessoa
+    - Categoria (id da categoria)
+    - Pessoa (id da pessoa)
+    - Tipo (debito/credito)
 
 ### Crud de pessoa
 Pessoa que poderá ser vinculada ao lançamento e se será pessoa física ou jurídica.
 
     - Nome
     - CPF/CNPJ
-    - tipo de pessoa
+    - Tipo de pessoa
 
 ### Crud de categorias
 Tipo de lançamento, ex: Conta de água, Salário etc.
 
     - Descrição
+    - Tipo (debito/credito)
 
 ### Dashboard
 Como não existe rota específica para dashboard, você pode usar as rotas GET e fazer a totalização diretamente no component.
