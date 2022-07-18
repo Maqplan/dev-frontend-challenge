@@ -2,7 +2,8 @@
 
 ## SAAS usando Angular 2+ para cadastro de lançamentos financeiros
 
-Obs: Você pode salvar os dados de duas formas:
+Obs: Você pode salvar os dados de três formas:
+- Criando uma API usando [essas recomendações](https://www.npmjs.com/package/json-server).
 - Usando localStorage;
 - No repositório, existe um json-server simulando uma API com esses dados, você pode saber como usar em [json-server](https://www.npmjs.com/package/json-server);
 
@@ -40,8 +41,6 @@ Como não existe rota específica para dashboard, você pode usar as rotas GET e
     - Gráfico de despesas x Receitas
     - Lançamentos por categoria
     - Lançamentos por pessoa
-
-
     
 ### Recomendações
 <hr>
