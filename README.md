@@ -5,8 +5,7 @@
 Obs: Você pode salvar os dados de três formas:
 
 - Criando uma API usando [essas recomendações](https://www.npmjs.com/package/json-server). ( De preferência )
-- No repositório, existe um json-server simulando uma API com esses dados, você pode saber como usar em [json-server](https://www.npmjs.com/package/json-server);
-  - Baixe o repósitório e excute ***npm run api*** para iniciar o servidor.
+- Excute ***npm run api*** para iniciar um servidor json-server. Você pode saber como usar [aqui](https://www.npmjs.com/package/json-server);
 
 ## A Aplicação deverá ter as seguintes telas:
 
