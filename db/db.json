@@ -1,0 +1,47 @@
+{
+  "lancamentos": [
+    {
+      "id": 2,
+      "descricao": "Pagamento de conta de água",
+      "valor": "190.25",
+      "status": "1",
+      "dataVencimento": "16/06/2022",
+      "dataPagamento": "15/06/2022",
+      "categoria": "1",
+      "pessoa": "",
+      "tipo": "0"
+    },
+    {
+      "id": 1,
+      "nome": "José Leoncio",
+      "cpfCnpj": "74381324048",
+      "tipoPessoa": "0"
+    }
+  ],
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "José Leoncio",
+      "cpfCnpj": "74381324048",
+      "tipoPessoa": "0"
+    },
+    {
+      "id": 2,
+      "nome": "Transportadora do Seu Zé",
+      "cpfCnpj": "95367520000143",
+      "tipoPessoa": "0"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "descricao": "Conta de água",
+      "tipo": "0"
+    },
+    {
+      "id": 2,
+      "descricao": "Salário",
+      "tipo": "1"
+    }
+  ]
+}
