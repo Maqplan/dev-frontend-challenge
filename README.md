@@ -5,7 +5,7 @@
 Obs: Você pode salvar os dados de duas formas:
 
 - Criando uma API usando [essas recomendações](https://github.com/Maqplan/dev-backend-challenge). ( De preferência )
-- Excute ***npm run api*** para iniciar um servidor json-server. Você pode saber como usar [aqui](https://www.npmjs.com/package/json-server), e também existe no repositório uma collection de exemplo;
+- Execute ***npm run api*** para iniciar um servidor json-server. Você pode saber como usar [aqui](https://www.npmjs.com/package/json-server), e também existe no repositório uma collection de exemplo;
 
 ## A Aplicação deverá ter as seguintes telas:
 
