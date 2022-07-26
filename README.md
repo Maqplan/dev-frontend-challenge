@@ -59,4 +59,4 @@ Como não existe rota específica para dashboard, você pode usar as rotas GET e
 <hr>
 
 - Usar lazy loading.
-- Usar práticas e conceitos Clean Code. Você pode encontrar ajuda com esse assunto [aqui]().
+- Usar práticas e conceitos Clean Code. Você pode encontrar ajuda com esse assunto [aqui](https://github.com/Maqplan/dev-backend-challenge/blob/main/helpers/Apresenta%C3%A7%C3%A3o%20geral.pdf).
