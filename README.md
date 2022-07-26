@@ -60,3 +60,11 @@ Como não existe rota específica para dashboard, você pode usar as rotas GET e
 
 - Usar lazy loading.
 - Usar práticas e conceitos Clean Code. Você pode encontrar ajuda com esse assunto [aqui](https://github.com/Maqplan/dev-backend-challenge/blob/main/helpers/Apresenta%C3%A7%C3%A3o%20geral.pdf).
+
+
+### Entrega
+
+<hr>
+
+- Compartilhar link do repositório público para o e-mail: engenharia.sistemas@maqplan.com.br;
+- Publicar resultado em um servidor de hospedagem gratuito de sua preferência, pode ser Heroko, AWS, GitHub etc;
